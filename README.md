@@ -1,1 +1,2 @@
 # Rentit
+"Rentit" is a web application designed to facilitate the sharing and renting of various items among users within the same locality. The platform aims to reduce overproduction and promote sustainability by allowing individuals to rent items they need from others for a specific period of time, rather than purchasing new items. Users can list items they are willing to rent out, and those in need can easily find and rent these items, creating a more sustainable and cost-effective way of accessing goods while reducing waste and excess consumption.
